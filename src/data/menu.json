@@ -1,0 +1,28 @@
+[
+    {
+        "text": "Opción 1",
+        "description": "esta es la opción 1"
+    },
+    {
+        "text": "Opción 2",
+        "description": "esta es la opción 2",
+        "options": [
+            {
+                "text": "Opción 2.1",
+                "description": "esta es la opción 2.1"
+            },
+            {
+                "text": "Opción 2.2",
+                "description": "esta es la opción 2.2"
+            }
+        ]
+    },
+    {
+        "text": "Opción 3",
+        "description": "esta es la opción 3"
+    },
+    {
+        "text": "Opción 4",
+        "description": "esta es la opción 4"
+    }
+]
